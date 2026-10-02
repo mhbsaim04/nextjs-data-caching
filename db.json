@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "price": 2500,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Comfortable wireless headphones with clear sound and long battery life.",
+      "stock": 15
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "price": 4200,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "description": "Modern smartwatch with fitness tracking, notifications, and heart-rate monitoring.",
+      "stock": 10
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "price": 3500,
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Lightweight and comfortable running shoes designed for everyday workouts.",
+      "stock": 20
+    },
+    {
+      "id": "4",
+      "name": "Leather Backpack",
+      "price": 2800,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "description": "Stylish leather backpack suitable for university, work, and travel.",
+      "stock": 12
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "price": 5500,
+      "category": "Computer",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "description": "Responsive mechanical keyboard with RGB lighting and durable switches.",
+      "stock": 8
+    },
+    {
+      "id": "6",
+      "name": "Water Bottle",
+      "price": 900,
+      "category": "Lifestyle",
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+      "description": "Reusable stainless steel water bottle that keeps drinks cool for hours.",
+      "stock": 25
+    }
+  ],
+
+  "books": [
+    {
+      "id": "101",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 650,
+      "category": "Self Development",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A practical guide to building good habits, breaking bad ones, and making small changes that create lasting results.",
+      "stock": 18
+    },
+    {
+      "id": "102",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 450,
+      "category": "Fiction",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "description": "A philosophical novel about a young shepherd who follows his dreams and searches for a hidden treasure.",
+      "stock": 20
+    },
+    {
+      "id": "103",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 550,
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+      "description": "A personal finance book that explores different approaches to money, investing, and financial independence.",
+      "stock": 14
+    },
+    {
+      "id": "104",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 1200,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "description": "A programming book that teaches principles and practices for writing clean, readable, and maintainable code.",
+      "stock": 10
+    },
+    {
+      "id": "105",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 700,
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d",
+      "description": "An engaging book about how people think about money, wealth, risk, saving, and financial decisions.",
+      "stock": 16
+    },
+    {
+      "id": "106",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 600,
+      "category": "Productivity",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "A guide to developing focused work habits and producing valuable results in a distracted world.",
+      "stock": 13
+    }
+  ]
+}
